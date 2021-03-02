@@ -1,0 +1,1277 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"brea",
+				"word-break\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2833,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "<!DOCTYPE html>"
+			}
+		},
+		{
+			"file": "onama.html",
+			"settings":
+			{
+				"buffer_size": 4656,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "otkup.html",
+			"settings":
+			{
+				"buffer_size": 3354,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "otkupjecam.html",
+			"settings":
+			{
+				"buffer_size": 2635,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "otkuppsenica.html",
+			"settings":
+			{
+				"buffer_size": 5317,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "otkupsuncokret.html",
+			"settings":
+			{
+				"buffer_size": 2520,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "otkupsoja.html",
+			"settings":
+			{
+				"buffer_size": 2495,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "otkupkukuruz.html",
+			"settings":
+			{
+				"buffer_size": 2542,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "cenovnici.html",
+			"settings":
+			{
+				"buffer_size": 3711,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "cenovnikvestackogdjubriva.html",
+			"settings":
+			{
+				"buffer_size": 4237,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "semenajecma.html",
+			"settings":
+			{
+				"buffer_size": 2177,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "semenapsenice.html",
+			"settings":
+			{
+				"buffer_size": 3545,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "semenasuncokreta.html",
+			"settings":
+			{
+				"buffer_size": 4628,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "semenasoje.html",
+			"settings":
+			{
+				"buffer_size": 2674,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "semenakukuruza.html",
+			"settings":
+			{
+				"buffer_size": 22408,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "hemija.html",
+			"settings":
+			{
+				"buffer_size": 16446,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "galerija.html",
+			"settings":
+			{
+				"buffer_size": 8602,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "kontakt.html",
+			"settings":
+			{
+				"buffer_size": 2334,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "contzma.html",
+			"settings":
+			{
+				"buffer_size": 2260,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "contsiloszma.html",
+			"settings":
+			{
+				"buffer_size": 2225,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "contmil.html",
+			"settings":
+			{
+				"buffer_size": 2249,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "contkuc.html",
+			"settings":
+			{
+				"buffer_size": 2215,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "contzit.html",
+			"settings":
+			{
+				"buffer_size": 2257,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "contnor.html",
+			"settings":
+			{
+				"buffer_size": 2239,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css.css",
+			"settings":
+			{
+				"buffer_size": 13969,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "* {"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: l",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Stojan/Desktop/Web dev/LP1001/main.js",
+		"/C/Users/Stojan/Desktop/Back Up Web dev/LP1001/otkupi.html",
+		"/C/Users/Stojan/Desktop/JS/js/javascript.js",
+		"/C/Users/Stojan/Desktop/JS/css.css",
+		"/C/Users/Stojan/Desktop/JS/index.html",
+		"/C/Users/Stojan/Desktop/JS/js.js",
+		"/C/Users/Stojan/Desktop/Back Up Web dev/LP/LP 1000 - 22.06.2020/main.js",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 1000 - 10.12.2019/zaposleni.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 1000/zaposleni.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 1000/php.php",
+		"/C/Users/Korisnik/AppData/Roaming/Sublime Text 3/Packages/User/PHP.sublime-build",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 1000/otkupi.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/css.css",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/otkupkukuruz.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/otkupsoja.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/otkupsuncokret.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/otkupuljanarepica.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/otkuppsenice.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/otkupjecma.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/novoorahovo.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/zitiste.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/kucura.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/milesevo.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/siloszmajevo.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/sediste.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/Kontakti.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/Galerija.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/Cenovnikvestackogdjubriva.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/Cenovnikhemijepomocnasredstva.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/Cenovnikhemijeishranabiljaka.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/Cenovnikhemijefungicidi.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/Cenovnikhemijeinsekticidi.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/Cenovnikhemijeherbicidi.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/Cenovnikhemije.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/Cenovniksemenasoje.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/Cenovniksemenakukuruzazp.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/Cenovniksemenakukuruzasyngenta.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/Cenovniksemenapioneer.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/Cenovnikkukuruzans.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/Cenovniksemenakukuruzalg.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/Cenovniksemenakukuruzakws.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/Cenovniksemenakukuruzadkc.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/Cenovniksemenakukuruzacaussade.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/Cenovniksemenakukuruzabc.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/Cenovniksemenakukuruzaas.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/Cenovniksemenakukuruza.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/Cenovniksemenapsenice.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/Cenovniksemenajecma.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/Cenovnici.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/Otkupi.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/Onama.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999/index.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999 2/Cenivnikhemijeishranabiljaka.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999 2/Cenivnikhemijeishranabilja.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP 999 2/Cenovnikhemijeishranabiljaka.html",
+		"/C/Users/Stojan/Desktop/LP 999/Cenovnicijecma.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP/LP4/css.css",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP/LP4/Kontakt.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP/LP4/Otkup.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP/LP4/Galerija.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP/LP4/Zaposleni.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP/LP4/Onama.html",
+		"/H/LIBELA/LIBELA DOKUMENTI/----STOJAN----/Web development/LP/LP4/index.html",
+		"/C/Users/Korisnik/Desktop/LP/LP4/Otkup.html",
+		"/C/Users/Korisnik/Desktop/LP4/index.html",
+		"/C/Users/Korisnik/Desktop/LP4/LP4.sublime-project",
+		"/C/Users/Korisnik/Desktop/LP4/LP4.sublime-workspace",
+		"/C/Users/Korisnik/Desktop/LP4/css.css",
+		"/C/Users/Korisnik/AppData/Roaming/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/C/Users/Stojan/Desktop/LP test/css.css",
+		"/C/Users/Stojan/Desktop/LP test/Kontakt.html",
+		"/C/Users/Stojan/Desktop/LP test/Galerija.html",
+		"/C/Users/Stojan/Desktop/LP test/Otkup.html",
+		"/C/Users/Stojan/Desktop/LP test/O nama.html",
+		"/C/Users/Stojan/Desktop/LP test/index.html",
+		"/C/Users/Stojan/Desktop/LP3/css.css",
+		"/C/Users/Stojan/Desktop/LP1/css.css",
+		"/C/Users/Stojan/Desktop/css.css",
+		"/C/Users/Korisnik/Desktop/LP3/Otkupi.html",
+		"/C/Users/Korisnik/Desktop/LP1/css.css",
+		"/C/Users/Korisnik/Desktop/LP1/Kontakti.html",
+		"/C/Users/Korisnik/Desktop/LP1/Galerija.html",
+		"/C/Users/Korisnik/Desktop/LP1/Otkupi.html",
+		"/C/Users/Korisnik/Desktop/LP1/Onama.html",
+		"/C/Users/Korisnik/Desktop/LP1/index.html",
+		"/C/Users/Korisnik/Desktop/LP1/O nama.html",
+		"/C/Users/Korisnik/Desktop/LP2/css.css",
+		"/C/Users/Korisnik/Desktop/LP2/Kontakti.html",
+		"/C/Users/Korisnik/Desktop/LP2/Galerija.html",
+		"/C/Users/Korisnik/Desktop/LP2/Veštacko đubrivo.html",
+		"/C/Users/Korisnik/Desktop/LP2/O nama.html",
+		"/C/Users/Korisnik/Desktop/LP2/index.html",
+		"/C/Users/Korisnik/Desktop/LP2/Zaposleni.html",
+		"/C/Users/Stojan/Desktop/LP3/Kontakt.html",
+		"/C/Users/Stojan/Desktop/LP3/Zaposleni.html",
+		"/C/Users/Stojan/Desktop/LP3/Cenovnici.html",
+		"/C/Users/Stojan/Desktop/LP3/Onama.html",
+		"/C/Users/Stojan/Desktop/LP3/index.html",
+		"/C/Users/Stojan/Desktop/LP2/css.css",
+		"/C/Users/Stojan/Desktop/LP2/index.html",
+		"/C/Users/Stojan/Desktop/infinite-slider.css",
+		"/C/Users/Stojan/Desktop/LP2/AIMP.lnk",
+		"/C/Users/Stojan/Desktop/LP/css.css",
+		"/C/Users/Stojan/Desktop/LP/index.html",
+		"/C/Users/Korisnik/Desktop/main.css",
+		"/C/Users/Korisnik/Desktop/index.html"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"item4",
+			"footer",
+			"#footer",
+			".conta",
+			"footer",
+			"a:hover",
+			".cont",
+			".wraper",
+			"iframe",
+			".cont",
+			"flex",
+			"item5",
+			"item4",
+			"logo",
+			"border-rad",
+			"%;",
+			"border",
+			"center",
+			"middle",
+			"green",
+			"border-rad",
+			"velton",
+			"center",
+			"middle",
+			"2019",
+			"white"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2833,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								880,
+								880
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<!DOCTYPE html>",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 585.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "onama.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4656,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3150,
+								3150
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1248.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "otkup.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3354,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1130,
+								1130
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 234.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "otkupjecam.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2635,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								817,
+								817
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 351.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "otkuppsenica.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5317,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								308,
+								308
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "otkupsuncokret.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2520,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								597,
+								597
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 93.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 24,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "otkupsoja.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2495,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								593,
+								593
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "otkupkukuruz.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2542,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								595,
+								595
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 156.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "cenovnici.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3711,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								632,
+								632
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "cenovnikvestackogdjubriva.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4237,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3502,
+								3502
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2145.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "semenajecma.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2177,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								639,
+								639
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 156.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "semenapsenice.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3545,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								641,
+								641
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 117.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "semenasuncokreta.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4628,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								644,
+								644
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 117.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "semenasoje.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2674,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								638,
+								638
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 156.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "semenakukuruza.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22408,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1211,
+								1211
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 356.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "hemija.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16446,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								644,
+								644
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 78.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "galerija.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8602,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								668,
+								668
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 104.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "kontakt.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2334,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1101,
+								1101
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 396.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "contzma.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2260,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2043,
+								2043
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 71.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "contsiloszma.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2225,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 461.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "contmil.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1402,
+								1402
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 526.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "contkuc.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2215,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								2215
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 507.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "contzit.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 592.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "contnor.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2239,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 501.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 24,
+					"file": "css.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13969,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1683,
+								1683
+							]
+						],
+						"settings":
+						{
+							"auto_name": "* {",
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 897.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.592862318131,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "LP1001.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 147.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

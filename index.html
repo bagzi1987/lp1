@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+ 
+<html>
+	<head>
+		<title> "Libela produkt" doo | Početna </title>
+		<link rel="stylesheet" type="text/css" href="css.css">
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="shortcut icon" href="logox.ico">
+	</head>
+
+
+
+	<body>
+
+
+
+
+
+<div class="container">
+
+<div id="footer">
+	Tel.: 021/726-196  ||  E-mail: libelaprodukt@gmail.com 
+</div>
+
+
+
+	<div class="header">
+		<a href="index.html"> <img src="logo.png" alt="logo"> </a>
+
+		<nav> 
+			<ul>
+				<li> <a class="pulseEffect" href="index.html"> Početna </a> </li>
+				<li> <a href="onama.html"> O nama </a> </li>
+				<li> <a href="otkup.html"> Otkup </a> </li>
+				<li> <a href="cenovnici.html"> Cenovnici </a> </li>
+				<li> <a href="galerija.html"> Galerija </a> </li>
+				<li> <a href="kontakt.html"> Kontakt </a> </li>
+			</ul>
+		</nav>
+	</div>
+
+
+
+
+
+
+<!-- WRAPER -->
+
+<div class="wraper">
+
+
+  <div class="w3-content w3-section" style="width: 100%;
+  height: 100%;">
+
+  <img class="mySlides" src="https://images.unsplash.com/photo-1573119798379-011dfedae008?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1490&q=80" style="width:100%; height: 100%;">
+  
+  <img class="mySlides" src="https://images.unsplash.com/photo-1586771107445-d3ca888129ff?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1352&q=80" style="width:100%; height: 100%;">
+   
+  <img class="mySlides" src="https://images.pexels.com/photos/221016/pexels-photo-221016.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" style="width:100%; height: 100%;">
+ 
+   <img class="mySlides" src="https://mundogeo.com/wp-content/uploads/2017/04/agronegocio.jpg" style="width:100%; height: 100%;">
+
+  <img class="mySlides" src="https://cdn.pixabay.com/photo/2018/07/09/18/59/sun-flower-3526901_960_720.jpg" style="width:100%; height: 100%;">
+  
+  <img class="mySlides" src="https://images.unsplash.com/photo-1505764706515-aa95265c5abc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80" style="width:100%; height: 100%;">
+  
+    <img class="mySlides" src="https://mocah.org/uploads/posts/5374533-flower-sky-plant-rural-agriculture-countryside-field-farm-land-rape-seed-yellow-oil-seed-cloud-summer-nature-outdoors-blue-sky-yellow-flower-spring-fragrance-smell-png-images.jpg" style="width:100%; height: 100%;">
+
+    
+</div>
+
+
+
+
+
+
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  myIndex++;
+  if (myIndex > x.length) {myIndex = 1}    
+  x[myIndex-1].style.display = "block";  
+  setTimeout(carousel, 2000); // Change image every 2 seconds
+}
+</script>
+
+	</div>
+
+<!-- END OF WRAPER -->
+
+
+
+
+
+
+
+
+</div>
+
+
+
+	</body>
+
+	</html>
